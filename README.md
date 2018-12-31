@@ -1,5 +1,7 @@
 # nuxt-bootstrap-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/nuxt-bootstrap-boilerplate.svg)](https://greenkeeper.io/)
+
 > Nuxt.js project + Bootstrap CSS Framework
 
 ## Build Setup
