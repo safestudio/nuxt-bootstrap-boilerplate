@@ -23,6 +23,9 @@ module.exports = {
   css: [
     { src: '~/assets/scss/app.scss', lang: 'scss' },
   ],
+  plugins: [
+    '~/plugins/webFontLoader.client.js'
+  ],
   /*
   ** Build configuration
   */
